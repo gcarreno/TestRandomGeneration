@@ -8,7 +8,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/gcarreno/TestRandomGeneration?label=latest%20release)](https://github.com/gcarreno/TestRandomGeneration/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/gcarreno/TestRandomGeneration/total)](https://github.com/gcarreno/TestRandomGeneration/releases)
 
-The objective of this repository is to have a personal copy of the Random Generation function from Prof. Marsaglia.
+The objective of this repository is to have a personal copy of the Random Generation functions from Prof. Marsaglia.
 
 The code is taken from Thaddy de Koning's entry on the [Free Pascal Wiki](https://wiki.freepascal.org/Marsaglia%27s_pseudo_random_number_generators).
 
